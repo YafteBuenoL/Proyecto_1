@@ -18,5 +18,5 @@ print ("Su Indice de Masa Corporal es: ")
 
 a = (estatura**2)
 imc = (peso / a)
-round = imc
+
 print(imc)
