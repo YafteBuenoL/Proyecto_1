@@ -16,8 +16,6 @@ print (f"Su estatura es: {estatura}")
 print (f"Su peso es: {peso}")
 print ("Su Indice de Masa Corporal es: ")
 
-a = (estatura ** 2)
-imc = (peso / a)
+imc = round((estatura ** 2) /peso,4)
 
-round(imc)
-print(imc)
+print(imc)   
