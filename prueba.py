@@ -1,2 +1,2 @@
-print("prueba")
-print("4")
+print ("prueba")
+print ("4")
