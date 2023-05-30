@@ -10,7 +10,7 @@ peso = float(input("Escriba su peso en kg: "))#se pide escribir peso
 
 
 #Se imprimen los datos
-print ("Sus datos son: ")
+print ("SUS DATOS SON: ")
 print (f"Nombre: {nombre}")
 print (f"Apellido paterno: {apellido1}")
 print (f"Apellido materno: {apellido2}")
