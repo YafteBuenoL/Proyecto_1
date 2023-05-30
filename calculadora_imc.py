@@ -41,4 +41,4 @@ elif imc >= 35 and imc <= 39.99:
 elif imc >= 40:
     print("Usted tiene obesidad morbida")
 
-exit()
+
