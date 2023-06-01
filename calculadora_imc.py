@@ -1,7 +1,8 @@
 #calculadora de IMC
 
 print ("Hola bienvenido a la calculadora de IMC")#se da la bienvenida
-print ("LLene los siguientes datos")
+print ("Llene los siguientes datos")
+print("-------------------------------")
 nombre = input("Escribe tu nombre: ")#se pide escribir nombre
 apellido1 = input("Escribe tu apellido paterno: ")#se pide escribir apellido paterno
 apellido2= input("Escribe tu apellido materno: ")#se pide escribir apellido materno
