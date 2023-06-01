@@ -13,6 +13,7 @@ print("-------------------------------")
 
 #Se imprimen los datos
 print ("SUS DATOS SON: ")
+print("-----------------")
 print (f"Nombre: {nombre}")
 print (f"Apellido paterno: {apellido1}")
 print (f"Apellido materno: {apellido2}")
