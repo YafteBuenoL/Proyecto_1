@@ -11,6 +11,8 @@ mediante if/else e imprime el resultado.
 Tambien el programa evalua la condicion del usuario por medio del IMC
 se usa if en la primera sentencia
 al ser varias verificaciones se usa elif y and para evaluar los limites de cada rubro de los indices de masa corporal
-asi enviando un mensaje al usuario 
+asi enviando un mensaje al usuario.
+Mi reflexion es que cualquier cosa que podamos imaginar se puede programar siempre siendo ordenado en la forma en que escribimos
+y estructuramos nuestro codigo.
 
 
