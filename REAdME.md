@@ -1,4 +1,4 @@
-# carpeta_curso
+# modulo_1 de python
 #tarea de curso python---
 En este proyecto se hizo el calculo de indice de masa corporal.
 Se escriben las entradas de datos con un texto que pide los datos requeridos del usuario
